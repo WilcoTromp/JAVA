@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=testBankAccount
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ testBankAccount\ here.\r\n\ \r\n\ @author\ (Wilco\ Tromp)\ \r\n\ @version\ (2021/06/06)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arrClients\ count
+comment2.target=void\ display(Clientable[],\ int)
+numComments=3

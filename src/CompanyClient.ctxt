@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=CompanyClient
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CompanyClient\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=CompanyClient()
+comment10.params=
+comment10.target=double\ calcInterest()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=name\ surname\ idNumber\ contactNumber\ balance\ bankfee\ companyName
+comment2.target=CompanyClient(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ java.lang.String)
+comment3.params=
+comment3.target=double\ getBankFee()
+comment4.params=bankfee
+comment4.target=void\ setBankfee(double)
+comment5.params=
+comment5.target=java.lang.String\ getCompName()
+comment6.params=companyName
+comment6.target=void\ setCompName(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getCode()
+comment8.params=count
+comment8.target=void\ setCode(int)
+comment9.params=amount
+comment9.target=void\ withdraw(double)
+numComments=12
